@@ -7,7 +7,7 @@ public interface IStudent {
 
     /**
      * Register student {@code studentName} for class {@code className} in year {@code year},
-     * provided this class exists and has not met its enrolment capacity.
+     * provided this class exists and has not met its enrollment capacity.
      *
      * @param className The name of the class to register for
      * @param year The year in which the class is taught
